@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+}
+
+/* Set a style for the submit button */
+
+.registerbtn {
+
+background-color: #000080;
+
+color: white;
+
+padding: 16px 20px;
+
+margin: 8px 0;
+
+border: none;
+
+cursor: pointer;
+
+width: 40%;
+
+opacity: 0.9;
+
+border-radius: 8px;
+
+text-align: center;
+
+margin:0 auto;
+
+display: block;
+
+margin: auto;
+
+
+
+}
+
+.registerbtn:hover {
+
+opacity: 1;
+
+}
+
+/* Add a blue text color to links */
+
+a {
+
+color: dodgerblue;
+
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+
+.signin {
+
+background-color: #f1f1f1;
+
+text-align: center;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<form action="/action_page.php">
+
+<div class="container">
+
+<h1>Sign in</h1>
+
+<p>Please fill in this form to create an account.</p>
+
+<hr>
+
+<label for="Your ID"><b>Your ID</b></label>
+
+<input type="text" placeholder="Enter ID" name="Your ID" required>
+
+<la
+
+<div class="container signin">
+
+<p>Already have an account? <a href="C:\Users\TEMP\Desktop\Log in.html">Log in</a>.</p>
+
+</div>
+
+</form>
+
+</body>
+
+</html>
+
